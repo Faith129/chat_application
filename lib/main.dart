@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget{
 
    Widget build(BuildContext context){
      return new Scaffold(
-       appBar: new AppBar(title: new Text ("Chat Application"),
+       appBar: new AppBar(title: new Text ("Chat Application on git"),
        centerTitle: true,
         backgroundColor: Colors.redAccent,
        ),
